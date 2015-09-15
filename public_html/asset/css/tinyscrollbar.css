@@ -1,0 +1,8 @@
+/* Tiny Scrollbar */
+#scrollbar1 { width: 300px; border: 1px solid #FFFFFF; margin: 0 auto 22px; }
+#scrollbar1 .viewport { width: 300px; height: 300px; overflow: hidden; position: relative; }
+#scrollbar1 .overview { list-style: none; position: absolute; left: 0; top: 0; padding: 0; margin: 0; }
+#scrollbar1 .scrollbar{ display: none;}
+#scrollbar1 .disable { display: none; }
+.noSelect { user-select: none; -o-user-select: none; -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; }
+.pc {display: none;}
