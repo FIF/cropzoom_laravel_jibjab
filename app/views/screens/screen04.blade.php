@@ -25,11 +25,11 @@
       </div>
       <div class="btn_block vertical select_photo">
         <ul>
-<!--          <li><a id="btnCamera" class="btn btn_take-photo" href="#">写真を撮る</a></li>-->
-          <li><a id="btnAlbum" class="btn btn_select-img" href="#">画像を選ぶ</a></li>
-          <li><a class="btn btn_fb-select" href="{{ url('facebook/albums') }}">Facebookから選ぶ</a></li>
+<!--          <li><a id="btnCamera" class="btn btn_take-photo" href="#">take a picture</a></li>-->
+          <li><a id="btnAlbum" class="btn btn_select-img" href="#">Choose an image</a></li>
+          <li><a class="btn btn_fb-select" href="{{ url('facebook/albums') }}">Facebook photos</a></li>
         </ul>
-        <p class="finish message">※Facebookアルバムの特性上、一部読み込めない画像がありますのでご了承ください</p>
+        <p class="finish message">※Facebook due to the characteristics of the album, some images can not be read</p>
       </div>
     </main><!-- #main -->
   </div><!-- #body -->
@@ -51,7 +51,7 @@
                 $('input[name=name]').val(this.id);
                 if (this.files[0].size != null && this.files[0].size >= 5120000){
                     setTimeout(function() {
-                        alert("画像サイズがオーバーしています。5MB以内に収めてください。");
+                        alert("Please put it within 5 MB");
                     }, 30);
                 }
                 else

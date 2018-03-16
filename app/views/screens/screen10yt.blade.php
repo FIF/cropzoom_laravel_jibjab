@@ -11,7 +11,7 @@
             @if (isset($authUrl))
             <div class="btn_block accesstoken vertical">
                 <ul>
-                    <li><a class="btn btn_apply" href="{{ $authUrl }}">Youtube承認画面へ</a></li>
+                    <li><a class="btn btn_apply" href="{{ $authUrl }}">Youtube approval screen</a></li>
                 </ul>
             </div>
             @elseif (isset($accessToken))
@@ -28,15 +28,15 @@
                         <col>
                         <tr>
                             <th><input type="radio" id="public" name="scope" value="public"></th>
-                            <td><label for="public">公開<br><span>誰でも検索と再生ができます</span></label></td>
+                            <td><label for="public">Release<br><span>Anyone can search and play</span></label></td>
                         </tr>
                         <tr>
                             <th><input type="radio" id="limited" name="scope" value="unlisted"></th>
-                            <td><label for="limited">限定公開<br><span>リンクを知っている人が再生可能</span></label></td>
+                            <td><label for="limited">Limited release<br><span>People who know the link can play</span></label></td>
                         </tr>
                         <tr>
                             <th><input type="radio" id="secret" name="scope" value="private"></th>
-                            <td><label for="secret">非公開<br><span>指定した人のみ再生可能</span></label></td>
+                            <td><label for="secret">private<br><span>Only specified people can be played</span></label></td>
                         </tr>
                     </table>
                 </div>
@@ -44,7 +44,7 @@
             </div>
             <div class="btn_block vertical margin_s">
                 <ul>
-                    <li><a class="btn btn_yt-post_02" href="#" id="btnYtUpload">Youtubeに投稿</a></li>
+                    <li><a class="btn btn_yt-post_02" href="#" id="btnYtUpload">Youtube post</a></li>
                 </ul>
             </div>
             {{ Form::close() }}

@@ -7,19 +7,17 @@
     </header>
     <div id="body">
         <main id="main" style="padding: 1em 1em 60px;">
-            <p style="padding-top: 30px;font-size: 132%;">利用規約</p><br><br>
+            <p style="padding-top: 30px;font-size: 132%;">Terms of service</p><br><br>
 
-             本アプリ( You can BOATNYA!)は一般財団法人　BOATRACE振興会（以下「本財団」という）が提供しています。ご利用のお客様は、以下にご説明する各事項を前もってご了解くださいますようお願い申し上げます。なお、本アプリを利用した場合は、この利用規約にご同意いただいたものとみなします。利用規約は、予告なく内容を変更させていただく場合がございますので、あらかじめご了承ください。<br><br>
+             (You can BOATNYA!) Promotion Organization (hereinafter referred to as the "Foundation") is offered by the general foundation corporation. Customers are requested to understand the items described below in advance. In addition, if you use this application, we assume that you have agreed to this terms of service. Please understand beforehand that the terms of service may be changed without notice.<br><br>
 
              ■著作権等について<br>
-             本アプリ上に掲載される文書・画像・ソフトウェア等(以下コンテンツといいます)は、本財団ならびに第三者が有する著作権により保護されております。著作権法が定める場合を除き、著作権者の許諾なく、私的使用など法律によって認められる範囲を超えて、無断で改変または翻訳、翻案することはできません。<br>
-             本財団は、本アプリ上のコンテンツに関して本財団または第三者の著作権、特許権、商標権その他いかなる権利も許諾するものではありません。また、当サイト上のコンテンツの内容に関し、いかなる保証をするものでもありません。<br>
-             本アプリ利用者（以下利用者）が使用する画像については、利用者に権利があるものに限ります。また利用者は本財団およびその他の第三者の知的財産権、肖像権等および法律を侵すものではないことを保証するものとします。万が一、利用者が第三者の知的財産権、肖像権等を侵害した場合について、本財団は何ら責任を負うものではありません。<br>
-             利用者は本アプリが提供したサービスを利用し、FacebookおよびYoutube等外部へコンテンツを投稿した場合、FacebookおよびYoutubeの利用規約に同意し従うことを保証するものとします。利用者が投稿した内容について、本財団は何ら責任を負うものではありません。<br>
+             Documents, images, software etc. (hereinafter referred to as "contents") posted on this application are protected by the copyright owned by the Foundation and third parties. Except as provided by the copyright law, you can not modify, translate or adapt without permission without the permission of the copyright owner, beyond the scope allowed by law such as private use.<br>
+             The Foundation does not grant any copyright, patent right, trademark right or any other rights of the Foundation or a third party with respect to the content on this application. In addition, we do not guarantee anything about the contents of the contents on this site.<br>
              <br><br>
 
-             ■免責事項について<br>
-             利用者は、自己の責任と負担において本アプリを利用するものとします。本財団は、本アプリ上のコンテンツの内容について、様々な注意を払って掲載しておりますが、正確性、有用性、確実性、安全性、その他いかなる保証もいたしません。本アプリ内に掲載されている情報は、あくまでも掲載時点における情報であり、時間の経過により掲載情報が実際と一致しなくなる場合があります。万一、本アプリ内のコンテンツのご利用、もしくはご利用になれないことにより何らかの損害が発生した場合も、本財団は、何ら責任を負うものではありません。本財団は、本アプリのコンテンツやURLを予告なく変更もしくは削除することがあります。また、本アプリの提供を予告なしに中断または中止することがあります。これらによって生じるいかなる損害についても、本財団は何ら責任を負うものではありません。<br><br>
+             ■About Disclaimer<br>
+             The user shall use this application in its own responsibility and burden. Although the Foundation publishes various notes about the contents of contents on this application, it does not guarantee accuracy, usefulness, certainty, safety, or any other. The information posted in this application is information at the time of publication, and the posted information may not match the actual due to the lapse of time. In the unlikely event that any damage arises due to the use of content in this application or because it can not be used, the foundation is not responsible at all. The Foundation may change or delete the content and URL of this application without notice. In addition, the provision of this application may be interrupted or canceled without prior notice. The Foundation is not responsible for any damage caused by these.<br><br>
 
         </main><!-- #main -->
     </div><!-- #body -->

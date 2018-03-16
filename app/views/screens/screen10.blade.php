@@ -11,7 +11,7 @@
                 <div class="visual"><img src="{{ Session::get('final_thumbnail') }}" alt=""></div>
                 <div class="select">
                     <select name="scopesetting" id="scopesetting" class="select__scopesetting">
-                            <option value="0" disabled selected>▼公開範囲：</option>
+                            <option value="0" disabled selected>▼Open scope：</option>
                             @foreach ($optionPrivacy as $option)
                                 <option value="{{ $option['value'] }}">{{ $option['text'] }}</option>
                             @endforeach
@@ -22,7 +22,7 @@
                 </div>
                 <div class="btn_block vertical margin_s">
                     <ul>
-                        <li><a class="btn btn_fb-post" id="fbProcess" href="#">facebookに投稿</a></li>
+                        <li><a class="btn btn_fb-post" id="fbProcess" href="#">facebook post</a></li>
                         <li><a class="btn btn_play-again_02" href="{{ url('screens/screen09') }}">PLAY AGAIN</a></li>
                     </ul>
                 </div>

@@ -7,18 +7,18 @@
     </header>
     <div id="body">
         <main id="main" style="padding: 1em 1em 60px;">
-            <p style="padding-top: 30px;font-size: 132%;">推奨環境</p><br><br>
+            <p style="padding-top: 30px;font-size: 132%;">Recommended environment</p><br><br>
 
-            ■スマートフォン<br>
+            ■smartphone<br>
             ・iOS 7.0以降<br>
             ・Android 4.0以降<br>
-            ※OSデフォルトブラウザ以外のブラウザアプリは非推奨
+            ※OS Browser applications other than the default browser are deprecated
             <br><br>
 
             ■PC<br>
             Chrome, Firefox, Safari 各最新版<br>
             Internet Explorer 10 以降<br>
-            ※HTML5/CSS3を正式にサポートしたブラウザ
+            ※HTML5/CSS3 Browsers that officially support
             <br><br>
 
         </main><!-- #main -->

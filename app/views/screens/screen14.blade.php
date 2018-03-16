@@ -7,26 +7,26 @@
     </header>
     <div id="body">
         <main id="main">
-            <p style="padding-top: 30px;font-size: 132%;">個人情報保護方針</p><br><br>
+            <p style="padding-top: 30px;font-size: 132%;">Privacy policy</p><br><br>
 
-            一般財団法人 BOATRACE振興会（以下「本財団」という）は、高度情報通信社会における個人情報保護の重要性を認識し、個人情報を適正に取り扱うべく、個人情報保護法を遵守するとともに、以下の方針に基づき、本財団が保有する個人情報の保護に努めます。<br><br>
+            The BOATRACE Promotion Organization (hereinafter referred to as the "Foundation") recognizes the importance of protecting personal information in advanced information and communication society and observes the personal information protection law in order to handle personal information appropriately, and based on the following policy , We will strive to protect personal information possessed by this foundation.<br><br>
 
-            ■個人情報の取得及び使用<br>
-            本財団は、当該WEBサイトをご利用されるお客様（以下「ユーザー」という）の個人情報を含む情報を任意で提供していただくようお願いする場合があります。<br>
-            例として、<br>
-            ・本財団のサービスにおいてユーザーがアカウントを作成した場合<br>
-            ・本財団へEメールによるお問い合わせをした場合<br><br>
+            ■Acquisition and use of personal information<br>
+            The Foundation may ask you to provide information including personal information of customers (hereinafter referred to as "users") who use the web site voluntarily.<br>
+            As an example<br>
+            ・When a user creates an account in the service of the Foundation<br>
+            ・In case of inquiring by e-mail to this foundation<br><br>
 
-            ■第三者サービスのアカウント<br>
-            当該WEBサイトはユーザーのフェイスブック、Youtube及びGoogleのアカウント情報・パスワードを保存しません。ユーザーのアカウント情報は当該WEBサイトには開示されず、ユーザーは個人の都合で当該WEBサイトとソーシャルネットワークサイトとの連動を解消することができます。ただし投稿などのアクティビティの記録を削除する場合、それぞれの第三者サービスのWEBサイトにて任意の操作を行っていただく必要があります。<br><br>
+            ■Third party service account<br>
+            The web site will not store user's facebook, Youtube and Google account information / password. The user's account information is not disclosed to the relevant web site, and the user can cancel the link between the web site and the social network site on the personal circumstances. However, when deleting records of activities such as contributions, it is necessary to perform arbitrary operations on the web site of each third party service.<br><br>
 
-            ■実施<br>
-            本財団は、定期的に当該個人情報保護方針の順守を見直しています。書面による正式な苦情書を提出していただければ、本財団はユーザーに連絡し、問題解決のために最善を尽くします。<br><br>
+            ■Implementation<br>
+            The Foundation regularly reviews compliance with the personal information protection policy. If you submit a written formal complaint, the Foundation will contact the user and will do our best to solve the problem.<br><br>
 
-            ■変更<br>
-            本財団の個人情報保護方針は変更させていただく場合がございます。事前通知無しにユーザーの権利を不利益に変更することはありません。 当該個人情報保護方針に変更がある場合は当ページに告知します。<br>
+            ■Change<br>
+            The Foundation's personal information protection policy may be changed. We do not change the user's right to disadvantage without advance notice. 当該個人情報保護方針に変更がある場合は当ページに告知します。<br>
             <br>
-            最終更新日：2014年7月25日
+            Last update date: July 25, 2014
         </main><!-- #main -->
     </div><!-- #body -->
 </div><!-- #all -->

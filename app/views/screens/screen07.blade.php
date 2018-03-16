@@ -6,7 +6,7 @@
 <div id="all">
     <header id="header">
         <h1 class="app_name"><a href="{{ url('/') }}">You can be BOATNYA!</a></h1>
-        <p class="save_photo"><a href="#">合成PHOTOをアルバムに保存</a></p>
+        <p class="save_photo"><a href="#">Save synthetic PHOTO to album</a></p>
     </header>
     <div id="body">
       <main id="main">
@@ -16,7 +16,7 @@
         <div class="btn_block">
           <ul>
             <li><a class="btn btn_back_02" href="{{ url('screens/screen06') }}">back</a></li>
-            <li><a class="btn btn_play" href="#" id="btnVideoProcess">合成</a></li>
+            <li><a class="btn btn_play" href="#" id="btnVideoProcess">Process</a></li>
           </ul>
         </div>
       </main><!-- #main -->

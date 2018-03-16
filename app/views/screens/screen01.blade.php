@@ -4,7 +4,7 @@
 <script type="text/javascript">
     function show_alert() {
       setTimeout(function() {
-            alert("ご利用中の閲覧環境は動作を保証しておりません。「You can be BOATNYA!」アプリは最新のデバイスでお楽しみください。");
+            alert("The browsing environment in use does not guarantee the operation. Please enjoy "You can be BOATNYA!" Application with the latest device.");
       }, 30);     
     };
     function getInternetExplorerVersion()
@@ -32,39 +32,39 @@
     </header>
     <div class="btn_block index01">
         <ul>
-            <li><a class="btn btn_fb-login_01" href="{{ $loginUrl }}">ログインしてスタート!!</a></li>
+            <li><a class="btn btn_fb-login_01" href="{{ $loginUrl }}">Login and start!!</a></li>
         </ul>
     </div>
     <div id="body">
         <main id="main">
             <section class="about">
-                <div class="system">このコンテンツでは、ボートニャーレッドにあなたや友達の顔をあてはめて、オリジナルCM動画をFacebookやYoutubeに投稿できます。<br>
-                    今すぐあなたもセクシーなボートニャーレッドになって、友達へシェア！</div>
+                <div class="system">With this content you can post your original CM video to Facebook and Youtube by applying your or your friends face to Boat Mey red.<br>
+                    You now become sexy boat meow red and share it to your friends!</div>
                 <div class="img"><img src="{{ url('asset/img/index') }}/img_01.jpg" alt=""></div>
                 <div class="movie">
-                    <p class="movie__txt">【Sample動画をCHECK!】</p>
+                    <p class="movie__txt">【Sample Video CHECK!】</p>
                     <div class="video-container">
                          <iframe width="853" height="480" src="//www.youtube.com/embed/5hE-1TWjwKQ?rel=0" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="btn_block index02">
                     <ul>
-                        <li><a class="btn btn_fb-login_01" href="{{ $loginUrl }}">ログインしてスタート!!</a></li>
+                        <li><a class="btn btn_fb-login_01" href="{{ $loginUrl }}">Login and start!!</a></li>
                     </ul>
                 </div>
                 <div class="policy_table">
                     <table>
                         <tr>
-                            <td><a href="{{ url('screens/screen13') }}">利用規約</a></td>
-                            <td><a href="{{ url('screens/screen15') }}">推奨環境</a></td>
+                            <td><a href="{{ url('screens/screen13') }}">Terms of service</a></td>
+                            <td><a href="{{ url('screens/screen15') }}">Recommended environment</a></td>
                         </tr>
                         <tr>
                             <td colspan="2" class="width100p"><a href="{{ url('screens/screen14') }}" target="_blank">個人情報保護方針</a></td>
                         </tr>
                     </table>
                 </div>
-                <div>一般財団法人 BOATRACE振興会<br>東京都港区三田 3-12-12 笹川記念会館<br>
-                    <span>Copyright ©BOAT RACE Official Web All rights reserved.</span></div>
+                <div>BOATRACE<br><br>
+                    <span>Copyright ©Your Company Official Web All rights reserved.</span></div>
             </section>
         </main><!-- #main -->
     </div><!-- #body -->
@@ -76,12 +76,6 @@
     $(function(){
         checkAgent();
     });
-
-    function show_alert() {
-      setTimeout(function() {
-            alert("ご利用中の閲覧環境は動作を保証しておりません。「You can be BOATNYA!」アプリは最新のデバイスでお楽しみください。");
-      }, 30);     
-    };
 
     function getAgent() {
         return navigator.userAgent;

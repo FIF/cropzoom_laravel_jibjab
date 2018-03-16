@@ -78,8 +78,9 @@ return array(
 	|
 	*/
 
-	'key' => 'bLCJBtzEFcZWOqRmQwRwCZajqiA7LfJK',
-
+	'key' => '',
+	
+	'cipher' => 'AES-256-CBC',
 	/*
 	|--------------------------------------------------------------------------
 	| Autoloaded Service Providers

@@ -26,19 +26,19 @@
                 <br />
             </div>
             <div style="padding: 1em 1em 2em;">
-                ▼STEP 1.【位置の調整】<br>
-                1）画像をタップ（Click）で選択し、フレームの手前に表示させます。<br>
-                2）画像を上下左右に移動させて位置を調整。タップ（Click）を放すとプレビュー画面に戻ります。<br><br>
-                ▼STEP 2.【大きさの調整】<br>
-                右のバーを上下にスライドさせることで、拡大／縮小できます。<br><br>
+                ▼STEP 1.【Adjustment of position】<br>
+                1）Select an image by tapping (Click) and display it in front of the frame.<br>
+                2）Adjust the position by moving the image up, down, left and right. Release the tap (Click) to return to the preview screen.<br><br>
+                ▼STEP 2.【Size adjustment】<br>
+                You can zoom in / out by sliding the right bar up and down.<br><br>
                 ▼STEP 3.【角度の調整】<br>
-                左のバーを上下にスライドさせることで、角度を調整することができます。<br><br>
-                調整が完了したら、下記【合成 >】ボタンを押してください。
+                You can adjust the angle by sliding the left bar up and down.<br><br>
+                When adjustment is completed, please push the following [>] button.
             </div>
             <div class="btn_block">
                 <ul>
                     <li><a class="btn btn_back_02" href="{{ url('screens/screen04') }}">back</a></li>
-                    <li><a class="btn btn_composite" href="#" id="btnCrop">合成</a></li>
+                    <li><a class="btn btn_composite" href="#" id="btnCrop">Crop</a></li>
                 </ul>
             </div>
         </main><!-- #main -->
@@ -57,7 +57,8 @@ $(document).ready(function(){
     objImage.src='{{ $file }}';
 
     var scale = parseFloat({{ $width/280 > $height/205 ? $width/280 : $height/205 }});
-    // alert(scale);
+    // The width and height of the sample face is hard coded.
+    // TODO This ratio should be set to standard config For different videos and face.
 
     var cropzoom = $('#crop_container').cropzoom({
         width:280,
