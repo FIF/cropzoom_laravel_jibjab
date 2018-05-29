@@ -2,6 +2,8 @@
 ini_set('error_reporting', E_ALL);
 ini_set('max_execution_time', 0);
 //... process compse
+// Use
+Caller::call($imgBG->compositeImage($imgFace, imagick::COMPOSITE_DIFFERENCE, intval($new_anchor_x-$shift_x)*$ratio, intval($new_anchor_y)*$ratio));
 
 class Caller extends Thread {
     /**
